@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed:
 Step 1: Create terraform.tfvars file
 Create a file named terraform.tfvars and add the following content:
 
-```hcl
+```sh
 name = "resource-group-name"
 ```
 Step 2: Apply the Terraform Configuration
