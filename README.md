@@ -1,6 +1,5 @@
 ## 📖 README.md
 
-```markdown
 # 🌐 Azure Infrastructure Setup
 
 Welcome to the Azure Infrastructure Setup repository! This repository contains Terraform configurations to create and manage an Azure environment with a resource group, virtual network, subnets, public IP, NAT gateway, and necessary associations.
